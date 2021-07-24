@@ -6,7 +6,8 @@ My HackerRank profile: [@Ultirequiem](https://www.hackerrank.com/Ultirequiem)
 
 ## Verified Skills
 
-- [Python (Basic)](https://www.hackerrank.com/certificates/74cb299c09d9)
+- Python:
+  - [Basic](https://www.hackerrank.com/certificates/74cb299c09d9)
 
 ## Badges
 
