@@ -7,9 +7,9 @@ The second line should contain the result of float division,  "a" / "b" .
 """
 
 
-def main(a: int, b: int) -> str:
+def format_division(a: int, b: int) -> str:
     return f"{a//b}\n{a/b}"
 
 
 if __name__ == "__main__":
-    print(main(3, 5))
+    print(format_division(3, 5))
