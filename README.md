@@ -25,5 +25,4 @@ My HackerRank profile: [@Ultirequiem](https://www.hackerrank.com/Ultirequiem)
 
 ### Extras
 
-Total exercises done: 14
 Favorite Exercises: [UltiList](./python/easy/11_lists.py)
