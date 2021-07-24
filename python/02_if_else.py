@@ -23,4 +23,4 @@ def weird_or_not_two(n: int) -> str:
 
 
 if __name__ == "__main__":
-    print(weird_or_not_two(22))
+    print(weird_or_not(22))
