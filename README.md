@@ -17,7 +17,7 @@ My HackerRank profile: [@Ultirequiem](https://www.hackerrank.com/Ultirequiem)
 
 ## Badges
 
-- Python ⭐⭐ (2)
+- Python ⭐⭐⭐ (3)
 
 ### LICENSE
 
@@ -25,4 +25,4 @@ My HackerRank profile: [@Ultirequiem](https://www.hackerrank.com/Ultirequiem)
 
 ### Total exercises done
 
-10
+11
