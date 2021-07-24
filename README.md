@@ -23,6 +23,7 @@ My HackerRank profile: [@Ultirequiem](https://www.hackerrank.com/Ultirequiem)
 
 [MIT](./LICENSE)
 
-### Total exercises done
+### Extras
 
-14
+Total exercises done: 14
+Favorite Exercises: [UltiList](./python/easy/11_lists.py)
