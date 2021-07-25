@@ -9,9 +9,10 @@ def main() -> None:
     L = []
     len_of_list = int(input("Enter the len of the list: "))
 
-    for _ in range(len_of_list + 1):
+    while len(L) < (len_of_list + 1):
         print(">> ", end="")
         args = input().strip().split(" ")
+
         if args[0] == "append":
             L.append(int(args[1]))
         elif args[0] == "insert":
