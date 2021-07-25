@@ -1,8 +1,8 @@
-import math
+from math import hypot, degrees, acos
 
 
-def calc(ab, bc):
-    return round(math.degrees(math.acos(bc / math.hypot(ab, bc)))), chr(176)
+def calc(ab: int, bc: int):
+    return round(degrees(acos(bc / hypot(ab, bc)))), chr(176)
 
 
 if __name__ == "__main__":

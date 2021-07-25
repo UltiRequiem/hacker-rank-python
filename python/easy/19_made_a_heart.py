@@ -1,4 +1,4 @@
-import math
+from math import sin, radians
 
 
 def main(c: str, w: int) -> None:
@@ -7,8 +7,8 @@ def main(c: str, w: int) -> None:
     for i in range(1, w // 10 + 1):
         print(
             (
-                (c * int(math.sin(math.radians(i * w // 2)) * w // 4)).rjust(w // 4)
-                + (c * int(math.sin(math.radians(i * w // 2)) * w // 4)).ljust(w // 4)
+                (c * int(sin(radians(i * w // 2)) * w // 4)).rjust(w // 4)
+                + (c * int(sin(radians(i * w // 2)) * w // 4)).ljust(w // 4)
             )
             * 2
         )
