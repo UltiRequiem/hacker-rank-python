@@ -5,4 +5,5 @@ The simplest challenge
 
 MESSAGE = "Hello, World!"
 
-print(MESSAGE)
+if __name__ == "__main__":
+    print(MESSAGE)
