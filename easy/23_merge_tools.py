@@ -1,4 +1,4 @@
-def merge_the_tools(s, k):
+def merge_the_tools(s: str, k: int) -> None:
     for part in zip(*[iter(s)] * k):
         d = dict()
         print("".join([d.setdefault(c, c) for c in part if c not in d]))

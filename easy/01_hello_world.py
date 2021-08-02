@@ -3,7 +3,7 @@ The simplest challenge
 """
 
 
-MESSAGE = "Hello, World!"
+MESSAGE: str = "Hello, World!"
 
 if __name__ == "__main__":
     print(MESSAGE)

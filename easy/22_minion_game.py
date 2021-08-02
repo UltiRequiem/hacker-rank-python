@@ -1,7 +1,7 @@
 def minion_game(string):
-    VOWELS = ["A", "E", "I", "O", "U"]
-    S = 0
-    K = 0
+    VOWELS: list = ["A", "E", "I", "O", "U"]
+    S: int = 0
+    K: int = 0
 
     for i in range(len(string)):
         if string[i] in VOWELS:

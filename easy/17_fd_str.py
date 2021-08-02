@@ -1,5 +1,5 @@
 def count_substring(string: str, sub_string: str):
-    count = 0
+    count: int = 0
     for i in range(len(string)):
         if string[i:].startswith(sub_string):
             count += 1
