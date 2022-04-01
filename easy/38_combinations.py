@@ -8,5 +8,6 @@ def run():
         for j in combinations(sorted(s), i):
             print("".join(j))
 
+
 if __name__ == "__main__":
     run()

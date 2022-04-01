@@ -3,7 +3,6 @@ def main(_, rooms, single, multiple):
     for room in rooms:
         single.add(room) if room not in single else multiple.add(room)
 
-
     return single.difference(multiple).pop()
 
 

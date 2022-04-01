@@ -12,5 +12,6 @@ def run():
     for i in range(m):
         print(" ".join(d[input()]) or -1)
 
+
 if __name__ == "__main__":
     run()
